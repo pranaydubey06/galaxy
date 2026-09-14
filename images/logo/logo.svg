@@ -1,0 +1,29 @@
+<svg width="512" height="512" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gg-ring-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="50%" stop-color="#A1A1AA" />
+      <stop offset="100%" stop-color="#27272A" />
+    </linearGradient>
+    <linearGradient id="gg-core-grad" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="60%" stop-color="#E4E4E7" />
+      <stop offset="100%" stop-color="#52525B" />
+    </linearGradient>
+  </defs>
+  <!-- Outer Tactical Tech Hexagon Ring -->
+  <polygon points="50,4 90,26 90,74 50,96 10,74 10,26" stroke="url(#gg-ring-grad)" stroke-width="2.5" fill="#09090b" />
+  <!-- Corner Tech Accent Pips -->
+  <circle cx="50" cy="4" r="2" fill="#FFFFFF" />
+  <circle cx="90" cy="26" r="2" fill="#E4E4E7" />
+  <circle cx="90" cy="74" r="2" fill="#A1A1AA" />
+  <circle cx="50" cy="96" r="2" fill="#71717A" />
+  <circle cx="10" cy="74" r="2" fill="#A1A1AA" />
+  <circle cx="10" cy="26" r="2" fill="#E4E4E7" />
+  <!-- Inner Dynamic Galaxy Diamond Emblem -->
+  <path d="M50,16 L80,50 L50,84 L20,50 Z" stroke="url(#gg-core-grad)" stroke-width="1.8" fill="rgba(255, 255, 255, 0.05)" />
+  <!-- Stylized Geometric Futuristic 'G' Monogram -->
+  <path d="M64,36 L36,36 L36,64 L64,64 L64,50 L48,50" stroke="url(#gg-core-grad)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Central Precision Core Light Spark -->
+  <circle cx="50" cy="50" r="2.5" fill="#FFFFFF" />
+</svg>
