@@ -1,0 +1,6 @@
+{
+  "name": "Galaxy Gaming",
+  "description": "Galaxy Gaming connects gamers and creators with gaming and social media account stores, services and Telegram channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
